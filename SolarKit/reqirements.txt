@@ -1,0 +1,4 @@
+argparse==1.4.0
+art==5.8
+secrets==1.0.2
+colorama==0.4.6
