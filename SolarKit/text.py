@@ -29,3 +29,5 @@ def type(text):
     sys.stdout.write(char)
     sys.stdout.flush()
 type(Fore.GREEN + "\n\nP.S. install modules using pip install -r requirements.txt\n\n\n")
+
+#copypaste becasue lazy to make normal func
